@@ -1,0 +1,39 @@
+* {
+    font-family: 'Ubuntu';
+    font-weight: 300;
+}
+
+button#submit {
+    margin-top: 1rem;
+    background-color: rgb(75, 192, 192);
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    border: none;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+}
+
+#container-fibo {
+    padding: 20px 0;
+}
+
+.input-fibo {
+    margin-top: 0.3rem;
+}
+
+#formRangeFibo {
+    background-color: #F8FFFE;
+    width: auto;
+}
+
+.title {
+    padding-top: 30px;
+}
+
+.error {
+    color: red;
+    font-size: 10px;
+    font-style: italic;
+}
