@@ -30,7 +30,7 @@
             <i class="fas fa-gem me-3"></i>Prueba técnica de
           </h6>
           <p>
-            Jesús Robles Sánchez | <a href="https://github.com/latadeloco/symfony">GitHub</a>
+            Jesús Robles Sánchez | <a href="https://github.com/latadeloco">GitHub</a>
           </p>
         </div>
         <!-- Grid column -->
@@ -66,7 +66,7 @@
 
   <!-- Copyright -->
   <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
-    <a class="text-reset fw-bold" href="https://github.com/latadeloco">Repository</a>
+    <a class="text-reset fw-bold" href="https://github.com/latadeloco/prueba_tecnica">Repository</a>
   </div>
   <!-- Copyright -->
 </footer>
