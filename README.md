@@ -12,7 +12,7 @@ Se ha implementado los 3 ejercicios que se piden en la prueba en 3 carpetas dife
 1. php8.0.13 como se puede ver en la imagen:
 ![Imagen versión php usada](/imgs/php8.png)
 
-2. Crear un nuevo VirtualHost y asigno hosts en `/etc/hosts` añadiendo la una nueva línea `120.0.0.1    prueba_tecnica.test` y después clono en `/var/www/` el repositorio ( Para mayor comodidad (en mi caso) clono el repositorio directamente en `/var/www` asegurando previamente que tengo los permisos para hacerlo):
+2. Crear un nuevo VirtualHost y asigno hosts en `/etc/hosts` añadiendo una nueva línea `127.0.0.1    prueba_tecnica.test` y después clono en `/var/www/` el repositorio ( Para mayor comodidad (en mi caso) clono el repositorio directamente en `/var/www` asegurando previamente que tengo los permisos para hacerlo):
 ![Imagen virtualhost usado](/imgs/virtualhost.png)
 
 Dejo mi código VirtualHost para que se pueda copiar:
